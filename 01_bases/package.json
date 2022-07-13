@@ -1,0 +1,16 @@
+{
+  "name": "react-jest-platzi",
+  "version": "1.0.0",
+  "description": "unit tests with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^28.1.4",
+    "jest": "^28.1.2"
+  }
+}
